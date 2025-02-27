@@ -1,0 +1,15 @@
+export const LibraryUsed = [
+  '@react-native-async-storage/async-storage',
+  '@react-navigation/native',
+  '@react-navigation/stack',
+  'moment',
+  'react-native-cardview',
+  'react-native-gesture-handler',
+  'react-native-get-random-values',
+  'react-native-google-places-autocomplete',
+  'react-native-maps',
+  'react-native-modal',
+  'react-native-modalize',
+  'react-native-safe-area-context',
+  'react-native-screens',
+];
